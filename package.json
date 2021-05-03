@@ -28,10 +28,7 @@
   ],
   "author": "Marian Hello",
   "maintainers": [
-    {
-      "email": "lionsheart56@gmail.com",
-      "name": "Lion Kuo"
-    }
+    "Lion Kuo <lionsheart56@gmail.com>"
   ],
   "license": "Apache-2.0",
   "bugs": {
