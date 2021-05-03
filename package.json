@@ -1,17 +1,17 @@
 {
-  "name": "@darron1217/react-native-background-geolocation",
-  "version": "0.6.6",
-  "description": "optimized background location tracking",
+  "name": "@lionsheart56/react-native-background-geolocation",
+  "version": "0.7.0",
+  "description": "optimized background location tracking even no updates",
   "main": "./index.js",
   "types": "./index.d.ts",
   "scripts": {
-    "link": "@darron1217/react-native-background-geolocation/scripts/postlink.js",
-    "unlink": "@darron1217/react-native-background-geolocation/scripts/postunlink.js",
+    "link": "@lionsheart56/react-native-background-geolocation/scripts/postlink.js",
+    "unlink": "@lionsheart56/react-native-background-geolocation/scripts/postunlink.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darron1217/react-native-background-geolocation.git"
+    "url": "git+https://github.com/lionsheart56/react-native-background-geolocation.git"
   },
   "keywords": [
     "gps",
@@ -29,15 +29,15 @@
   "author": "Marian Hello",
   "maintainers": [
     {
-      "email": "darron1217@gmail.com",
-      "name": "Darron Park"
+      "email": "lionsheart56@gmail.com",
+      "name": "Lion Kuo"
     }
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/darron1217/react-native-background-geolocation/issues"
+    "url": "https://github.com/lionsheart56/react-native-background-geolocation/issues"
   },
-  "homepage": "https://github.com/darron1217/react-native-background-geolocation#readme",
+  "homepage": "https://github.com/lionsheart56/react-native-background-geolocation#readme",
   "dependencies": {
     "plist": "^3.0.1"
   },

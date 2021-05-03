@@ -3,6 +3,10 @@
 
 > Forked from [@darron1217/react-native-background-geolocation](https://github.com/darron1217/react-native-background-geolocation) since I want more detail about location update even app was killed.
 
+## Changes
+
+Pass location updates from ios native to react even though location is as same as previous one. Because I want to make sure that the location I get is latest.
+
 ## Installation
 
 ```
